@@ -1,4 +1,7 @@
-import dplyr
+install.packages('dplyr')
+
+library(dplyr)
+
 path_to_data_folder <- '~/kaggle_data/lish-moa/'
 sample_submission <- read.csv('~/kaggle_data/lish-moa/sample_submission.csv')
 test_features <- read.csv('~/kaggle_data/lish-moa/test_features.csv')
