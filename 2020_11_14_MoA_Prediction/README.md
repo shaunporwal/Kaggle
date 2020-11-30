@@ -19,3 +19,7 @@ how to correlate gene and cell to MoA...
    1. Use control groups to determine a baseline. In theory genes and cells should have no response to these drugs Can potentially characterize the gene / cell.
    1. Classify the MoA into possible buckets. Ideally based on quantitative
    1. Choose from Multi-label classification algos to solve this
+
+
+   Example
+   id_000644bb2 --> gsk_inhibitor
