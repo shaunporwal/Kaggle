@@ -1,4 +1,7 @@
 ##
+
+## Kaggle comp: https://www.kaggle.com/c/lish-moa
+
 The values given are robust z-scores done after a quantile normalization. Which means that the value is based on the mean based on the order and then given the deviation from the mean. This means the numerical data doesn't have a linear progression.
 
 MoA(drug) = f(drug,c,g) for each drug
